@@ -1,4 +1,6 @@
----
+layout: page
+title: About
+permalink: /about/
 
 ### 이름 : 임한결
 ### 생년월일 : 1998-01-13
